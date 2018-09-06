@@ -72,3 +72,9 @@
 </form>
 <br>
 <footer>This form was completed as a project for FreeCodeCamp.</footer>
+
+body {
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  background: #ccebff;
+}
